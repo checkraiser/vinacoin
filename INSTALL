@@ -1,0 +1,9 @@
+Building VinaCoin
+
+See doc/readme-qt.rst for instructions on building VinaCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of VinaCoin.
+
+See doc/build-*.txt for instructions on building vinacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of VinaCoin.
